@@ -1,0 +1,7 @@
+{
+  "name": "jesseGmail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
